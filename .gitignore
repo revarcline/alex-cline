@@ -1,6 +1,2 @@
+package_lock.json
 node_modules/
-.cache/
-public
-
-# direnv
-.envrc

@@ -1,37 +1,23 @@
 {
   "name": "alex-cline",
   "version": "1.0.0",
-  "private": true,
-  "description": "Alex Cline",
-  "author": "Alex Cline",
-  "keywords": [
-    "gatsby"
-  ],
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@mdx-js/mdx": "^1.6.22",
-    "@mdx-js/react": "^1.6.22",
-    "gatsby": "^3.10.1",
-    "gatsby-plugin-image": "^1.10.1",
-    "gatsby-plugin-manifest": "^3.10.0",
-    "gatsby-plugin-mdx": "^2.10.0",
-    "gatsby-plugin-react-helmet": "^4.10.0",
-    "gatsby-plugin-sharp": "^3.10.2",
-    "gatsby-plugin-sitemap": "^4.6.0",
-    "gatsby-plugin-theme-ui": "^0.10.1",
-    "gatsby-source-filesystem": "^3.10.0",
-    "gatsby-theme-blog": "^3.0.0",
-    "gatsby-theme-blog-darkmode": "^3.0.0",
-    "gatsby-transformer-sharp": "^3.10.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0",
-    "theme-ui": "^0.10.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revarcline/alex-cline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revarcline/alex-cline/issues"
+  },
+  "homepage": "https://github.com/revarcline/alex-cline#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
   }
 }
